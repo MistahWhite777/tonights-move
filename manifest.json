@@ -1,0 +1,8 @@
+{
+  "name": "Tonight’s Move",
+  "short_name": "TonightMove",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#000000"
+}
